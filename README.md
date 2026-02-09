@@ -31,5 +31,5 @@ Dự án được chia làm 2 phần chính:
 3. Chạy ứng dụng: `npm run dev` (Mặc định chạy tại `http://localhost:5173`).
 
 ## 📸 Hình ảnh minh họa
-![Trang chủ](screenshots/home.png)
-![Chi tiết thẻ](screenshots/card-detail.png)
+![Trang chủ](home.png)
+![Chi tiết thẻ](card-detail.png)
